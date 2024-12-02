@@ -1,5 +1,5 @@
 {
-    "APPSTATE_PATH": "./config/appstate.json",
+    "APPSTATE_PATH": "./appstate.json",
     "APPSTATE_PROTECTION": true,
     "AUTO_PING_SERVER": true,
     "ALLOW_INBOX": true,
